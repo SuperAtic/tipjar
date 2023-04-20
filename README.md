@@ -1,4 +1,4 @@
-<h1>Tip Jars</h1>
+<h1>TipJar</h1>
 <h2>Accept tips in Bitcoin, with small messages attached!</h2>
 The TipJar extension allows you to integrate Bitcoin Lightning (and on-chain) tips into your website or social media!
 
